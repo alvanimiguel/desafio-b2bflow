@@ -146,7 +146,7 @@ python -m src.main
 
 ## 📝 Logs
 
-Todas as ações são registradas em arquivo e no terminal.
+Todas as ações são registradas em arquivo `/src/utils/logs/app.log` e no terminal.
 
 Exemplo:
 
